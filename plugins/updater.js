@@ -25,7 +25,7 @@ AlphaX.addCommand({pattern: 'up$', fromMe: true, desc: Lang.UPDATER_DESC}, (asyn
         var Updates = Lang.NEW_UPDATE;
         commits['all'].map(
             (commit) => {
-                Updates += Config.C_EMOJI + ' ෴ ' + commit.message + ' ```<' + commit.author_name + '>```\n';
+                Updates += Config.C_EMOJI + ' ෴  ' + commit.message + ' ```<' + commit.author_name + '>```\n';
             }
         );
         
