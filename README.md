@@ -74,8 +74,8 @@ the user is responsible.
     <img src="https://img.shields.io/static/v1?label=Author&message=AlphaXteam&color=purple&style=plastic">
 
   </a>
-  <a href="https://t.me/AlphaX_SUPPORT">
-    <img src="https://img.shields.io/badge/Telegram-AlphaX%20Support-purple&style=plastic">
+  <a href="https://t.me/SL_AlphaX_Team">
+    <img src="https://img.shields.io/badge/Telegram-AlphaX%20Main-purple&style=plastic">
 
   </a>
 </p>
