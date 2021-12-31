@@ -82,7 +82,7 @@ async function AlphaxBot () {
     clh.pay = ddd
     const AlphaxCN = new WAConnection();
     const Session = new StringSession();
-    AlphaxCN.version = [2, 2147, 14]
+    AlphaxCN.version = [2, 2147, 16]
     AlphaxCN.setMaxListeners(0);
     var proxyAgent_var = ''
     if (config.PROXY.includes('https') || config.PROXY.includes('http')) {
