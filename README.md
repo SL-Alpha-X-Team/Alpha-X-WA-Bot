@@ -1,5 +1,7 @@
 <div align="center">
 
+### 😈 Release Tommorow on (@AnythingSL)[https://youtube.com/c/AnythingSL]
+
 <h1 align="center"><b>⚡ The Alpha-X Whatsapp User Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
