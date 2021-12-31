@@ -97,6 +97,7 @@ the user is responsible.
 ```bash
 bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ```
+**• Watch tutorial** [Video](https://youtu.be/6PpRFnr2dSg) **to get qr using termux**
 
 ### `• Deploy To Heroku 🚀`
 
