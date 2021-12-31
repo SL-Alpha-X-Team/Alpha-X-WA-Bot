@@ -1,7 +1,5 @@
 <div align="center">
 
-### 😈 Release Tommorow on [@AnythingSL](https://youtube.com/c/AnythingSL)
-
 <h1 align="center"><b>⚡ The Alpha-X Whatsapp User Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
@@ -102,6 +100,8 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ### `• Deploy To Heroku 🚀`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer)
+            
+**• Watch tutorial** [Video](https://youtu.be/en4FLOsGRJY) **to create bot**
 
 ---
 
