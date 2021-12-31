@@ -107,7 +107,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 <h2> 🔱 Hard Method 🔱 </h2>
 
-```js
+```sh
 $ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot.git
 $ cd Alpha-X-WA-Bot
 $ git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer.git
