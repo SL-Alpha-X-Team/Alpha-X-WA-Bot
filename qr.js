@@ -12,7 +12,7 @@ const msg4 = '```Of course not. It will never happen. But you can donate to us. 
 
 async function AlphaX () {
     const conn = new WAConnection();
-    conn.version = [2, 2147, 14]
+    conn.version = [2, 2147, 16]
     conn.logger.level = 'warn'; 
     
     conn.on('connecting', async () => {
