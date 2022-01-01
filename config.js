@@ -12,7 +12,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'V.1 Global Stable',
     PROXY: process.env.PROXY === undefined ? 'false' : process.env.PROXY,
-    GROUP: 'https://bit.ly/BOT_HELP',
+    GROUP: 'https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt',
     SESSION: process.env._ALPHA_SESSION === undefined ? '' : process.env._ALPHA_SESSION,
     ANTILINK: process.env.ANTI_LINK === undefined ? 'false' : process.env.ANTI_LINK,
     AUTOBIO: process.env.AUTO_BIO === undefined ? 'false' : process.env.AUTO_BIO,

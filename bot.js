@@ -467,7 +467,7 @@ ${chalk.blue.italic('🔄 Connecting to WhatsApp...')}`);
                                     '\n*⚙ Ａｌｐｈａ-Ｘ හි දෝෂයක් සිදු වී ඇත!*'+
                                     '\n_♦ මෙම දෝෂ ලඝු සටහනට ඔබේ අංකය හෝ විරුද්ධවාදියෙකුගේ අංකය ඇතුළත් විය හැකිය. කරුණාකර එය සමඟ ප්‍රවේශම් වන්න!_' +
                                     '\n_🛸 ඔබට අපගේ වට්සැප් කණ්ඩායමට උදව් සඳහා ලිවිය හැකිය ._' +
-                                    '\n_*https://bit.ly/BOT_SUPPORT*' +
+                                    '\n_*https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt*' +
                                     '\n_මෙම පණිවිඩය ඔබගේ අංකයට යා යුතුව තිබුණි (සුරැකි පණිවිඩ)._\n' +
                                     '\n*දෝෂය:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
@@ -600,7 +600,7 @@ ${chalk.blue.italic('🔄 Connecting to WhatsApp...')}`);
                                 await AlphaxCN.sendMessage(AlphaxCN.user.jid, '*🔭 ERROR REPORT [ Ａｌｐｈａ-Ｘ ] ⚖️*\n' + 
                                     '\n*⚙ Ａｌｐｈａ-Ｘ an error has occurred!*'+
                                     '\n_♦ This error log may include your number or the number of an opponent. Please be careful with it!_' +
-                                    '\n_🏷 Aslo you can join our support group:_ \n *https://bit.ly/BOT_SUPPORT* ' +
+                                    '\n_🏷 Aslo you can join our support group:_ \n *https://chat.whatsapp.com/ItIRSBUMN9t2lQzCpfAKWt* ' +
                                     '\n_This message should have gone to your number (saved messages)._\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
