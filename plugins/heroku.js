@@ -82,6 +82,14 @@ AlphaX.addCommand({pattern: 'varset ?(.*)', fromMe: true, desc: Lang.SET_DESC}, 
             } 
         });
     }
+    else if (match[1] == 'badkick msg' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text, { quoted: message.data });
+               await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['ANTI_BADWORD_KICK_MSG']: message.reply_message.text
+            } 
+        });
+    }
     else if (match[1] == 'usong' && message.reply_message) {
         await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text, { quoted: message.data });
                await heroku.patch(baseURI + '/config-vars', { 
