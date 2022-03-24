@@ -32,6 +32,8 @@
   },
   "homepage": "https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot#readme",
   "dependencies": {
-    "alpha-wabot-npm": "^0.0.37"
+    "alpha-wabot-npm": "^0.0.37",
+    "letter-count": "3.2.0",
+    "mediafire-getlink": "1.0.2"
   }
 }
