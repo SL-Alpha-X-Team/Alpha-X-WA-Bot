@@ -110,11 +110,16 @@ const row_12 = [
         {title: "•────•─────• ᴇxᴛʀᴀ ᴍᴇɴᴜ •─────•────•" , rows: row_12}
         ];
         
-const malindu = Config.CLIST_MSG
+let listDesc;
+if (!Config.CLIST_MSG) { 
+listDesc = "Set Any Command List Msg! 🔧" 
+} else {
+listDesc = Config.CLIST_MSG
+};
 
         const button = {
          buttonText: `『 ${Config.C_EMOJI} ᴄʟɪᴄᴋ ʜᴇʀᴇ 』`,
-         description: malindu ,
+         description: listDesc ,
          sections: sections,
          listType: 1
                        }
