@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM node:latest
 
 RUN git clone https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
